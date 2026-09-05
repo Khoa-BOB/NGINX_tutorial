@@ -1,0 +1,4 @@
+--http-log-path=/opt/homebrew/var/log/nginx/access.log 
+--error-log-path=/opt/homebrew/var/log/nginx/error.log
+
+http://localhost:8080/
